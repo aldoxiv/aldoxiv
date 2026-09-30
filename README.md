@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Aldo Santos
+# 👋 Olá, eu sou ```Aldo Santos```
 
 Profissional com mais de 20 anos de experiência nos setores financeiro e de tecnologia, atuando em Tecnologia da Informação, Data Analytics, Business Intelligence, Automação de Processos e Inteligência Artificial.
 

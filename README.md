@@ -2,7 +2,7 @@
 
 Profissional com mais de 20 anos de experiência nos setores financeiro e de tecnologia, atuando em Tecnologia da Informação, Data Analytics, Business Intelligence, Automação de Processos e Inteligência Artificial.
 
-Atualmente desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão.
+> Atualmente desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão.
 
 ---
 
@@ -33,17 +33,17 @@ Atualmente desenvolvo projetos voltados à análise de dados, dashboards executi
 
 ### 🛠️ Principais Tecnologias
 
-Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
+> • Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
 
 ---
 
 ### 📫 Contato
 
-🔗 LinkedIn  
-www.linkedin.com/in/aldo-santos-/
+> 🔗 LinkedIn  
+> https://www.linkedin.com/in/aldo-santos-/
 
-💻 GitHub  
-github.com/aldoxiv
+> 💻 GitHub  
+> github.com/aldoxiv
 
 ---
 

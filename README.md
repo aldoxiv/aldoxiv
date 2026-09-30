@@ -6,7 +6,7 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 
 ---
 
-### 🚀 Áreas de Atuação
+### 🚀 **`Áreas de Atuação`**
 
 - Data Analytics
 - Business Intelligence (BI)
@@ -17,8 +17,6 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 - Soluções SaaS
 - Inteligência de Mercado
 
-<br/>
-
  
 | 📌 Projetos em Destaque | Descrição |
 |----------|----------|
@@ -28,16 +26,16 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 | 📊 Análise de Recuperação de Crédito | Business Intelligence com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
 | 🎉 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
 
----
+<br/>
 
-### 🛠️ Principais Tecnologias
+### 🛠️ **`Principais Tecnologias`**
 
 > • Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
 
 ---
 <br/>
 
-### 📫 Contato
+### 📫 **`Contato`**
 
 > 🔗 LinkedIn  
 > https://www.linkedin.com/in/aldo-santos-/

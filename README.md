@@ -17,8 +17,7 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 - Soluções SaaS
 - Inteligência de Mercado
 
-
-
+<br/>
 
  
 | 📌 Projetos em Destaque | Descrição |
@@ -36,6 +35,7 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 > • Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
 
 ---
+<br/>
 
 ### 📫 Contato
 
@@ -44,6 +44,8 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 
 > 💻 GitHub  
 > github.com/aldoxiv
+
+<br/>
 
 ---
 

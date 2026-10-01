@@ -19,7 +19,7 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 | 📊 Análise de Recuperação de Crédito | Business Intelligence com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
 | 🎉 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
 
-<br/>
+
 
 ### 🛠️ **`Principais Tecnologias`**
 
@@ -33,5 +33,5 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 
 ---
-<br/> <br/>
+<br/> <br/> <br/> <br/>
 > Dados geram contexto. Analytics gera conhecimento. IA amplia a inteligência. Decisões geram valor.

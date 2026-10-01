@@ -4,6 +4,8 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 
 > Atualmente desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão.
 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aldoxiv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 ---
 <br/>
 
@@ -24,13 +26,6 @@ Profissional com mais de 20 anos de experiência nos setores financeiro e de tec
 ### 🛠️ **`Principais Tecnologias`**
 
 > • Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
-
----
-<br/>
-
-### 📫 **`Contato`**
-> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aldoxiv)
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 
 ---
 <br/> <br/> <br/> <br/>

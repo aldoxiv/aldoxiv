@@ -1,5 +1,7 @@
 ## 👤 **`Aldo Santos`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Data+Analytics;Business+Intelligence+%28BI%29;Intelig%C3%AAncia+Artificial+Generativa;Automa%C3%A7%C3%A3o+de+Processos;Dashboards+%26+KPIs;Integra%C3%A7%C3%A3o+de+APIs;Solu%C3%A7%C3%B5es+SaaS;Intelig%C3%AAncia+de+Mercado)](https://github.com/aldoxiv/analise-recuperacao-credito)
+
 Olá !👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos setores financeiro e de tecnologia, atuando em Tecnologia da Informação, Data Analytics, Business Intelligence, Automação de Processos e Inteligência Artificial.
 
 > Atualmente desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão.
@@ -10,8 +12,15 @@ Olá !👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 <br/>
 
 ### 🚀 **`Áreas de Atuação`**
-
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Data+Analytics;Business+Intelligence+%28BI%29;Intelig%C3%AAncia+Artificial+Generativa;Automa%C3%A7%C3%A3o+de+Processos;Dashboards+%26+KPIs;Integra%C3%A7%C3%A3o+de+APIs;Solu%C3%A7%C3%B5es+SaaS;Intelig%C3%AAncia+de+Mercado)](https://github.com/aldoxiv/analise-recuperacao-credito)
+> • Data Analytics
+• Business Intelligence 
+• Inteligência Artificial Generativa
+• Automação de Processos
+• Dashboards
+• KPIs
+• Integração de APIs
+• Soluções SaaS
+• Inteligência de Mercado
 
 | 📌 Projetos em Destaque | Descrição |
 |----------|----------|

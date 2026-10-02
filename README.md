@@ -31,7 +31,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 | 📊 Análise de Recuperação de Crédito | Business Intelligence com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
 | 🎉 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
 
-
+<br/>
 
 ### 🛠️ **`Principais Tecnologias`**
 

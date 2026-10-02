@@ -23,7 +23,9 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 <br/>
 
-| 📌 Projetos em Destaque | Descrição |
+### 📌 **`Projetos em Destaque`**
+
+| Projeto | Descrição |
 |----------|----------|
 | 🏡 Proptech-IA | Inteligência Imobiliária com IA Generativa, Analytics e apoio à tomada de decisão|
 | 🤖 PropTech Capture | Automação imobiliária utilizando Python, Playwright, APIs e Gemini AI |

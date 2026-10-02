@@ -34,8 +34,19 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 ### 🛠️ **`Principais Tecnologias`**
 
-> • Python • SQL • Excel • Power BI • React • Node.js • APIs REST • Gemini AI • Git • GitHub
+#### **Data & Analytics**
+![Python](https://shields.io/badge/-Python-181717?style=flat-square&logo=python) <br/>
+![SQL](https://shields.io/badge/-SQL-181717?style=flat-square&logo=sql) <br/>
+![Power BI](https://shields.io/badge/-Power&nbsp;BI-181717?style=flat-square&logo=power&nbsp;bi) <br/>
+![Excel](https://shields.io/badge/-Excel-181717?style=flat-square&logo=excel) <br/>
+
+#### **Development & AI**
+![React](https://shields.io/badge/-React-181717?style=flat-square&logo=react) <br/>
+![Node.js](https://shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js) <br/>
+![Google Gemini](https://shields.io/badge/-Google&nbsp;Gemini-181717?style=flat-square&logo=google&nbsp;gemini) <br/>
+![Git](https://shields.io/badge/-Git-181717?style=flat-square&logo=git) <br/>
+
 
 ---
-<br/> <br/> <br/> <br/>
-> Dados geram contexto. Analytics gera conhecimento. IA amplia a inteligência. Decisões geram valor.
+<br/> 
+> *Dados geram contexto. Analytics gera conhecimento. IA amplia a inteligência. Decisões geram valor.*

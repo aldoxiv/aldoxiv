@@ -44,10 +44,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 [![Excel](https://shields.io/badge/-Excel-181717?style=flat-square&logo=excel)](https://github.com/aldoxiv) 
 
 #### **Development & AI**
-> [![React](https://shields.io/badge/-React-181717?style=flat-square&logo=react)](https://github.com/aldoxiv)
-[![Node.js](https://shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)](https://github.com/aldoxiv)
-[![Google Gemini](https://shields.io/badge/-Google&nbsp;Gemini-181717?style=flat-square&logo=google&nbsp;gemini)](https://github.com/aldoxiv)
-[![Git](https://shields.io/badge/-Git-181717?style=flat-square&logo=git)](https://github.com/aldoxiv)
+> [![React](https://shields.io/badge/-React-181717?style=flat-square&logo=react)](https://github.com/aldoxiv)&nbsp;&nbsp;[![Node.js](https://shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)](https://github.com/aldoxiv)&nbsp;&nbsp;[![Google Gemini](https://shields.io/badge/-Google&nbsp;Gemini-181717?style=flat-square&logo=google&nbsp;gemini)](https://github.com/aldoxiv)&nbsp;&nbsp;[![Git](https://shields.io/badge/-Git-181717?style=flat-square&logo=git)](https://github.com/aldoxiv)
 
 ---
 <br/> 

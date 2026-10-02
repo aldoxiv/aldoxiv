@@ -9,18 +9,19 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aldoxiv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 
-<br/> <br/>
+<br/> 
 
 ### 🚀 **`Áreas de Atuação`**
-> • Data Analytics
-• Business Intelligence 
-• Inteligência Artificial Generativa
-• Automação de Processos
-• Dashboards
-• KPIs
-• Integração de APIs
-• Soluções SaaS
-• Inteligência de Mercado
+- **Data Analytics**
+- **Business Intelligence**
+- **Inteligência Artificial Generativa**
+- **Automação de Processos**
+- **Dashboards & KPIs**
+- **Integração de APIs**
+- **Soluções SaaS**
+- **Inteligência de Mercado**
+
+<br/>
 
 | 📌 Projetos em Destaque | Descrição |
 |----------|----------|
@@ -48,4 +49,5 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 ---
 <br/> 
+
 > *Dados geram contexto. Analytics gera conhecimento. IA amplia a inteligência. Decisões geram valor.*

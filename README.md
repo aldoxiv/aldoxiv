@@ -35,17 +35,16 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 ### 🛠️ **`Principais Tecnologias`**
 
 #### **Data & Analytics**
-![Python](https://shields.io/badge/-Python-181717?style=flat-square&logo=python) <br/>
-![SQL](https://shields.io/badge/-SQL-181717?style=flat-square&logo=sql) <br/>
-![Power BI](https://shields.io/badge/-Power&nbsp;BI-181717?style=flat-square&logo=power&nbsp;bi) <br/>
-![Excel](https://shields.io/badge/-Excel-181717?style=flat-square&logo=excel) <br/>
+[![Python](https://shields.io/badge/-Python-181717?style=flat-square&logo=python)](https://github.com/aldoxiv) <br/>
+[![SQL](https://shields.io/badge/-SQL-181717?style=flat-square&logo=sql)](https://github.com/aldoxiv) <br/>
+[![Power BI](https://shields.io/badge/-Power&nbsp;BI-181717?style=flat-square&logo=power&nbsp;bi)](https://github.com/aldoxiv) <br/>
+[![Excel](https://shields.io/badge/-Excel-181717?style=flat-square&logo=excel)](https://github.com/aldoxiv) <br/>
 
 #### **Development & AI**
-![React](https://shields.io/badge/-React-181717?style=flat-square&logo=react) <br/>
-![Node.js](https://shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js) <br/>
-![Google Gemini](https://shields.io/badge/-Google&nbsp;Gemini-181717?style=flat-square&logo=google&nbsp;gemini) <br/>
-![Git](https://shields.io/badge/-Git-181717?style=flat-square&logo=git) <br/>
-
+[![React](https://shields.io/badge/-React-181717?style=flat-square&logo=react)](https://github.com/aldoxiv) <br/>
+[![Node.js](https://shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)](https://github.com/aldoxiv) <br/>
+[![Google Gemini](https://shields.io/badge/-Google&nbsp;Gemini-181717?style=flat-square&logo=google&nbsp;gemini)](https://github.com/aldoxiv) <br/>
+[![Git](https://shields.io/badge/-Git-181717?style=flat-square&logo=git)](https://github.com/aldoxiv) <br/>
 
 ---
 <br/> 

@@ -4,7 +4,7 @@
 
 Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos setores financeiro e de tecnologia, atuando em Tecnologia da Informação, Data Analytics, Business Intelligence, Automação de Processos e Inteligência Artificial.
 
-> Atualmente, desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão — utilizando tecnologias como Python, React.js e integração de APIs.
+> Atualmente, desenvolvo projetos voltados à análise de dados, dashboards executivos, IA Generativa, automação de processos e aplicações SaaS para apoio à tomada de decisão - utilizando tecnologias como Python, React.js e integração de APIs.
 ---
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aldoxiv)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 

@@ -31,7 +31,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 <br/> <br/>
 
 [![Static Badge](https://img.shields.io/badge/Projetos-em%20Destaque-brightgreen)](https://github.com/aldoxiv)
-| PROJETOS | DESCRIÇÃO |
+| PROJETOS | DESCRIÇÕES |
 |:---------|:----------|
 | 🏡 Proptech-IA | Inteligência Imobiliária com IA Generativa, Analytics e apoio à tomada de decisão |
 | 🤖 PropTech Capture | Automação imobiliária utilizando Python, Playwright, APIs e Gemini AI |

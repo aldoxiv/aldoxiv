@@ -16,7 +16,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 <br/> <br/> 
 
-![Static Badge](https://img.shields.io/badge/Áreas-de%20Atuação-brightgreen)
+[![Static Badge](https://img.shields.io/badge/Áreas-de%20Atuação-brightgreen)](https://github.com/aldoxiv)
 | ÁREAS |
 |:---|
 | Data Analytics |
@@ -30,7 +30,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 <br/> <br/>
 
-![Static Badge](https://img.shields.io/badge/Projetos-em%20Destaque-brightgreen)
+[![Static Badge](https://img.shields.io/badge/Projetos-em%20Destaque-brightgreen)](https://github.com/aldoxiv)
 | PROJETOS | DESCRIÇÃO |
 |:---------|:----------|
 | 🏡 Proptech-IA | Inteligência Imobiliária com IA Generativa, Analytics e apoio à tomada de decisão |
@@ -41,7 +41,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 
 <br/> <br/>
 
-![Static Badge](https://img.shields.io/badge/Principais-Tecnologias-brightgreen) 
+[![Static Badge](https://img.shields.io/badge/Principais-Tecnologias-brightgreen)](https://github.com/aldoxiv) 
 | Data & Analytics |
 |:---|
 | [![Python](https://shields.io/badge/-Python-181717?style=flat-square&logo=python)](https://github.com/aldoxiv)&nbsp;&nbsp;[![SQL](https://shields.io/badge/-SQL-181717?style=flat-square&logo=sql)](https://github.com/aldoxiv)&nbsp;&nbsp;[![Power BI](https://shields.io/badge/-Power&nbsp;BI-181717?style=flat-square&logo=power&nbsp;bi)](https://github.com/aldoxiv)&nbsp;&nbsp;[![Excel](https://shields.io/badge/-Excel-181717?style=flat-square&logo=excel)](https://github.com/aldoxiv) |

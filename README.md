@@ -1,7 +1,9 @@
 # 👤 **`Aldo Santos`**
 
 <a href="https://github.com/aldoxiv?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aldoxiv?logo=person-add&style=social&logoColor=black"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aldoxiv?logo=person-add&style=social&logoColor=black"/></a>&nbsp;&nbsp;
+        <a href="https://github.com/aldoxiv?tab=followers">
+    <img alt="stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/aldoxiv?logo=person-add&style=social&logoColor=black"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Data+Analytics;Business+Intelligence+%28BI%29;Intelig%C3%AAncia+Artificial+Generativa;Automa%C3%A7%C3%A3o+de+Processos;Dashboards+%26+KPIs;Integra%C3%A7%C3%A3o+de+APIs;Solu%C3%A7%C3%B5es+SaaS;Intelig%C3%AAncia+de+Mercado)](https://github.com/aldoxiv)
 

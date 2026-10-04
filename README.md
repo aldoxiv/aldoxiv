@@ -17,7 +17,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 <br/> <br/> 
 
 [![Static Badge](https://img.shields.io/badge/Áreas-de%20Atuação-brightgreen)](https://github.com/aldoxiv)
-| ÁREA |
+|📌 Área |
 |:---|
 | Data Analytics |
 | Business Intelligence |
@@ -31,13 +31,13 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 <br/> <br/>
 
 [![Static Badge](https://img.shields.io/badge/Projetos-em%20Destaque-brightgreen)](https://github.com/aldoxiv)
-| PROJETO | DESCRIÇÃO |
+|📌 Projeto | Descrição |
 |:---------|:----------|
 | 🏡 Proptech-IA | Inteligência Imobiliária com IA Generativa, Analytics e apoio à tomada de decisão |
 | 🤖 PropTech Capture | Automação imobiliária utilizando Python, Playwright, APIs e Gemini AI |
 | 📈 Analytics Engineering Portfolio | Pipelines de ETL, Machine Learning (K-Means), Python, Pandas, NumPy e dashboards analíticos |
 | 📊 Análise de Recuperação de Crédito | Business Intelligence com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
-| 🎉 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
+| 🥂 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
 
 <br/> <br/>
 

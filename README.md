@@ -15,7 +15,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aldoxiv)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-santos-/)
 
 <br/> <br/> 
-
+---
 [![Static Badge](https://img.shields.io/badge/Áreas-de%20Atuação-brightgreen)](https://github.com/aldoxiv)
 |📌 Área |
 |:---|
@@ -29,7 +29,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 | Inteligência de Mercado |
 
 <br/> <br/>
-
+---
 [![Static Badge](https://img.shields.io/badge/Projetos-em%20Destaque-brightgreen)](https://github.com/aldoxiv)
 |📌 Projeto | Descrição |
 |:---------|:----------|
@@ -40,7 +40,7 @@ Olá! 👋 Sou Aldo Santos, profissional com mais de 20 anos de experiência nos
 | 🥂 Plataforma SaaS para Gestão de Eventos | MVP desenvolvido em React voltado à experiência do cliente e gestão operacional |
 
 <br/> <br/>
-
+---
 [![Static Badge](https://img.shields.io/badge/Principais-Tecnologias-brightgreen)](https://github.com/aldoxiv) 
 | Data & Analytics |
 |:---|

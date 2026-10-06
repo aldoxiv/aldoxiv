@@ -34,11 +34,11 @@ Hoje desenvolvo soluções de análise de dados, dashboards executivos, IA Gener
 
 | Projeto | Descrição |
 |:--------|:----------|
-| 🏡 [Proptech-IA](https://github.com/aldoxiv/Proptech-IA) | Inteligência imobiliária com IA Generativa, analytics e apoio à tomada de decisão |
-| 🤖 [PropTech Capture](https://github.com/aldoxiv/PropTech-Capture) | Automação imobiliária com Python, Playwright, APIs e Gemini AI |
-| 📊 [Analytics Engineering Portfolio](https://github.com/aldoxiv/Analytics-Engineering-Portfolio) | Pipelines de ETL, Machine Learning (K-Means), Python, Pandas, NumPy e dashboards analíticos |
-| 💳 [Análise de Recuperação de Crédito](https://github.com/aldoxiv/Analise-Recuperacao-Credito) | BI com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
-| 🥂 [Plataforma SaaS para Gestão de Eventos](https://github.com/aldoxiv/Plataforma-Eventos) | MVP em React focado na experiência do cliente e na gestão operacional |
+| 🏡 [Proptech-IA](https://github.com/aldoxiv/proptech-gemini-lead-qualifier) | Inteligência imobiliária com IA Generativa, analytics e apoio à tomada de decisão |
+| 🤖 [PropTech Capture](https://github.com/aldoxiv/proptech-capture) | Automação imobiliária com Python, Playwright, APIs e Gemini AI |
+| 📊 [Analytics Engineering Portfolio](https://github.com/aldoxiv/proptech-analytics-portfolio) | Pipelines de ETL, Machine Learning (K-Means), Python, Pandas, NumPy e dashboards analíticos |
+| 💳 [Análise de Recuperação de Crédito](https://github.com/aldoxiv/analise-recuperacao-credito) | BI com Excel, KPIs, tabelas dinâmicas, dashboards e apresentação executiva |
+| 🥂 [Plataforma SaaS para Gestão de Eventos](https://github.com/aldoxiv/plataforma-saas-eventos-app) | MVP em React focado na experiência do cliente e na gestão operacional |
 
 ---
 

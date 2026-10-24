@@ -1,9 +1,12 @@
 # Aldo Santos
 
+🌐 **Portfólio:** [aldo-santos.lovable.app](https://aldo-santos.lovable.app)
+
 **Data & AI | Business Intelligence | Infraestrutura de TI e Gestão de Incidentes | SAS · Python · SQL · Power BI**
 
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/aldoxiv?logo=person-add&style=social&logoColor=black)](https://github.com/aldoxiv?tab=followers)&nbsp;&nbsp;
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/aldoxiv?logo=star&style=social&logoColor=black)](https://github.com/aldoxiv?tab=stars)&nbsp;&nbsp;
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-F5A623?style=flat-square&logo=googlechrome&logoColor=black)](https://aldo-santos.lovable.app)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldo-santos-/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Data+Analytics+%26+BI;Dashboards+%26+KPIs;IA+Generativa+%26+Automa%C3%A7%C3%A3o;Infraestrutura+de+TI;Gest%C3%A3o+de+Incidentes+%28ITIL%29)](https://github.com/aldoxiv)
@@ -69,6 +72,7 @@ Hoje desenvolvo projetos de **análise de dados, dashboards de KPI, IA Generativ
 
 Aberto a oportunidades em **Dados / BI** e **Infraestrutura de TI / Gestão de Incidentes**, além de projetos freelancer.
 
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-F5A623?style=flat-square&logo=googlechrome&logoColor=black)](https://aldo-santos.lovable.app)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldo-santos-/)&nbsp;&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:aldo.snt@gmail.com)
 
